@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <NavStyled>
       <div>
-        <img src="./images/logo.png" width={"300px"} alt="logo" />
+        <img src="./Images/logo.png" width={"300px"} alt="logo" />
       </div>
 
       <div>
